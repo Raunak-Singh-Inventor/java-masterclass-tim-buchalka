@@ -1,4 +1,4 @@
-package oops1.sum_calc;
+package com.raunaksinghinventor.oops1.sum_calc;
 
 public class Main {
 
