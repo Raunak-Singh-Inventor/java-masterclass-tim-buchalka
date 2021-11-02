@@ -30,5 +30,12 @@ public class Main {
 
 		bobsAccount.deposit(51.0);
 		bobsAccount.withdraw(100.0);
+
+		System.out.println("-------------------------------------");
+
+		Account timsAccount = new Account("Tim", "tim@email.com", "12345");
+		System.out.println(timsAccount.getAccountNumber() + " name " + timsAccount.getCustomerName());
+		System.out.println("Current balance is " + timsAccount.getBalance());
+		timsAccount.withdraw(100.55);
 	}
 }
