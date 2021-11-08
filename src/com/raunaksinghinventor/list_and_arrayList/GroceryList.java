@@ -27,14 +27,10 @@ public class GroceryList {
 		System.out.println("Grocery item " + theItem + " has been removed.");
 	}
 
-	public String findItem(String searchItem) {
+	public int findItem(String searchItem) {
 //		boolean exists = groceryList.contains(searchItem);
 
 		int pos = groceryList.indexOf(searchItem);
-		if (pos >= 0) {
-			return groceryList.get(pos);
-		}
-
-		return null;
+		return pos;
 	}
 }
