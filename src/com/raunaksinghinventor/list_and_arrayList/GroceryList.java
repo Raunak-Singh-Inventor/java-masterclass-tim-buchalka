@@ -21,7 +21,7 @@ public class GroceryList {
 		System.out.println("Grocery item " + (pos + 1) + " has been modified.");
 	}
 
-	public void removeGroceryitem(int pos) {
+	public void removeGroceryItem(int pos) {
 		String theItem = groceryList.get(pos);
 		groceryList.remove(pos);
 		System.out.println("Grocery item " + theItem + " has been removed.");
