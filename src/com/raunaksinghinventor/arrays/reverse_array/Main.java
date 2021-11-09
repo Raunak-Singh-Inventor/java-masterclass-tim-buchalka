@@ -1,4 +1,4 @@
-package com.raunaksinghinventor.reverse_array;
+package com.raunaksinghinventor.arrays.reverse_array;
 
 import java.util.Arrays;
 
