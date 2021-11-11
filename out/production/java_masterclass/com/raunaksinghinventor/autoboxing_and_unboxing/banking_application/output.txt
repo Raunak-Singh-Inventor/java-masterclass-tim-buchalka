@@ -1,0 +1,16 @@
+/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home/bin/java -javaagent:/Users/admin/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/212.5457.46/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49879:/Users/admin/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/212.5457.46/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/admin/eclipse-workspace/java_masterclass/out/production/java_masterclass com.raunaksinghinventor.autoboxing_and_unboxing.banking_application.Main
+Customer details for branch Adelaide
+Customer: Tim[1]
+Transactions
+[1]  Amount 50.05
+[2]  Amount 44.22
+[3]  Amount 12.44
+Customer: Mike[2]
+Transactions
+[1]  Amount 175.34
+[2]  Amount 1.65
+Customer: Percy[3]
+Transactions
+[1]  Amount 220.12
+
+Process finished with exit code 0

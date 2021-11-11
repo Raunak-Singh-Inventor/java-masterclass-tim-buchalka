@@ -1,0 +1,13 @@
+Customer details for branch Adelaide
+Customer: Tim[1]
+Transactions
+[1]  Amount 50.05
+[2]  Amount 44.22
+[3]  Amount 12.44
+Customer: Mike[2]
+Transactions
+[1]  Amount 175.34
+[2]  Amount 1.65
+Customer: Percy[3]
+Transactions
+[1]  Amount 220.12
