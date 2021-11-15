@@ -7,5 +7,10 @@ public class Main {
         raunaksPhone.powerOn();
         raunaksPhone.callPhone(123456);
         raunaksPhone.answer();
+
+        raunaksPhone = new MobilePhone(24565);
+        raunaksPhone.powerOn();
+        raunaksPhone.callPhone(24565);
+        raunaksPhone.answer();
     }
 }
